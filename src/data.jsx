@@ -27,7 +27,7 @@ export const links = [
   },
 ];
 
-export const socialLinks = [
+export const social = [
   {
     id: 1,
     url: 'https://www.facebook.com/',

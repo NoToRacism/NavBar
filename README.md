@@ -12,7 +12,9 @@ This project features a responsive navigation bar component built with React. On
 
 ## 🚀 Live Demo
 
-[Link to Live Demo]() ## 🛠️ Technologies Used
+[Link to Live Demo]() 
+
+## 🛠️ Technologies Used
 
 * **Frontend:** React.js (Hooks: `useState`, `useRef`)
 * **Icons:** `react-icons`
